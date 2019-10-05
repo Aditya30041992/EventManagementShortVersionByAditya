@@ -1,0 +1,23 @@
+H:\.Net Project Wedding Event Management Sysstem\EventManagementMVC\DAL\bin\Debug\DAL.dll
+H:\.Net Project Wedding Event Management Sysstem\EventManagementMVC\DAL\bin\Debug\DAL.pdb
+H:\.Net Project Wedding Event Management Sysstem\EventManagementMVC\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+H:\.Net Project Wedding Event Management Sysstem\EventManagementMVC\DAL\obj\Debug\DAL.dll
+H:\.Net Project Wedding Event Management Sysstem\EventManagementMVC\DAL\obj\Debug\DAL.pdb
+H:\.Net Project Wedding Event Management Sysstem\EventManagementMVC\DAL\bin\Debug\BOL.dll
+H:\.Net Project Wedding Event Management Sysstem\EventManagementMVC\DAL\bin\Debug\BOL.pdb
+H:\.Net Project Wedding Event Management Sysstem\EventManagementMVC\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+H:\.Net Project Wedding Event Management Sysstem\EventManagementMVC\DAL\obj\Debug\DAL.csproj.CopyComplete
+H:\.Net Project Wedding Event Management Sysstem\EventManagementMVC\DAL\bin\Debug\MySql.Data.dll
+H:\.Net Project Wedding Event Management Sysstem\EventManagementMVC\DAL\bin\Debug\Google.Protobuf.dll
+H:\.Net Project Wedding Event Management Sysstem\EventManagementMVC\DAL\bin\Debug\MySql.Data.xml
+F:\EventManagementMVC\EventManagementMVC1-20180714T071315Z-001\EventManagementMVC\DAL\bin\Debug\DAL.dll
+F:\EventManagementMVC\EventManagementMVC1-20180714T071315Z-001\EventManagementMVC\DAL\bin\Debug\DAL.pdb
+F:\EventManagementMVC\EventManagementMVC1-20180714T071315Z-001\EventManagementMVC\DAL\bin\Debug\BOL.dll
+F:\EventManagementMVC\EventManagementMVC1-20180714T071315Z-001\EventManagementMVC\DAL\bin\Debug\Google.Protobuf.dll
+F:\EventManagementMVC\EventManagementMVC1-20180714T071315Z-001\EventManagementMVC\DAL\bin\Debug\BOL.pdb
+F:\EventManagementMVC\EventManagementMVC1-20180714T071315Z-001\EventManagementMVC\DAL\bin\Debug\MySql.Data.xml
+F:\EventManagementMVC\EventManagementMVC1-20180714T071315Z-001\EventManagementMVC\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\EventManagementMVC\EventManagementMVC1-20180714T071315Z-001\EventManagementMVC\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\EventManagementMVC\EventManagementMVC1-20180714T071315Z-001\EventManagementMVC\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\EventManagementMVC\EventManagementMVC1-20180714T071315Z-001\EventManagementMVC\DAL\obj\Debug\DAL.dll
+F:\EventManagementMVC\EventManagementMVC1-20180714T071315Z-001\EventManagementMVC\DAL\obj\Debug\DAL.pdb

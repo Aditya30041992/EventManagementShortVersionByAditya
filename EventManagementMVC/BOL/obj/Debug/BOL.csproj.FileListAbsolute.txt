@@ -1,0 +1,5 @@
+H:\.Net Project Wedding Event Management Sysstem\EventManagementMVC\BOL\bin\Debug\BOL.dll
+H:\.Net Project Wedding Event Management Sysstem\EventManagementMVC\BOL\bin\Debug\BOL.pdb
+H:\.Net Project Wedding Event Management Sysstem\EventManagementMVC\BOL\obj\Debug\BOL.csproj.CoreCompileInputs.cache
+H:\.Net Project Wedding Event Management Sysstem\EventManagementMVC\BOL\obj\Debug\BOL.dll
+H:\.Net Project Wedding Event Management Sysstem\EventManagementMVC\BOL\obj\Debug\BOL.pdb

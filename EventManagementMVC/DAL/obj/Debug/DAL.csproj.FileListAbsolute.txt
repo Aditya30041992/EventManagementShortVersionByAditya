@@ -1,0 +1,12 @@
+H:\.Net Project Wedding Event Management Sysstem\EventManagementMVC\DAL\bin\Debug\DAL.dll
+H:\.Net Project Wedding Event Management Sysstem\EventManagementMVC\DAL\bin\Debug\DAL.pdb
+H:\.Net Project Wedding Event Management Sysstem\EventManagementMVC\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+H:\.Net Project Wedding Event Management Sysstem\EventManagementMVC\DAL\obj\Debug\DAL.dll
+H:\.Net Project Wedding Event Management Sysstem\EventManagementMVC\DAL\obj\Debug\DAL.pdb
+H:\.Net Project Wedding Event Management Sysstem\EventManagementMVC\DAL\bin\Debug\BOL.dll
+H:\.Net Project Wedding Event Management Sysstem\EventManagementMVC\DAL\bin\Debug\BOL.pdb
+H:\.Net Project Wedding Event Management Sysstem\EventManagementMVC\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+H:\.Net Project Wedding Event Management Sysstem\EventManagementMVC\DAL\obj\Debug\DAL.csproj.CopyComplete
+H:\.Net Project Wedding Event Management Sysstem\EventManagementMVC\DAL\bin\Debug\MySql.Data.dll
+H:\.Net Project Wedding Event Management Sysstem\EventManagementMVC\DAL\bin\Debug\Google.Protobuf.dll
+H:\.Net Project Wedding Event Management Sysstem\EventManagementMVC\DAL\bin\Debug\MySql.Data.xml
